@@ -1,2 +1,2 @@
-# quest-nexus
+# Quest Friend
 HackUTA 2026
